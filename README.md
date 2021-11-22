@@ -4,8 +4,13 @@ Here, we calculate the Peierls stress of edge and screw dislocations on {110}, {
 
 Since there are two types of dislocations, three types of planes, and eight metals, you will have 3 x 8 x 2 = 48 Peierls stress values.
 
-## Reference
+## References
 
-If you use any file from this GitHub repository, please cite
+If you use the interatomic potential file from this GitHub repository, please cite
 
+- Shuozhi Xu, Saeed Zare Chavoshi, Yanqing Su, [On calculations of basic structural parameters in multi-principal element alloys using small atomistic models](http://dx.doi.org/10.1016/j.commatsci.2021.110942), Comput. Mater. Sci. 202 (2022) 110942
+
+If you use any other files from this GitHub repository, please also cite
+
+- Rebecca A. Romero, Shuozhi Xu, Wu-Rong Jian, Irene J. Beyerlein, C.V. Ramana, Atomistic calculations of the local slip resistances in four refractory multi-principal element alloys, Int. J. Plast. (in press)
 - Wu-Rong Jian, Shuozhi Xu, Irene J. Beyerlein, [On the significance of model design in atomistic calculations of the Peierls stress in Nb](http://dx.doi.org/10.1016/j.commatsci.2020.110150), Comput. Mater. Sci. 188 (2021) 110150
